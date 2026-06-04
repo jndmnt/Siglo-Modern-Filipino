@@ -1,0 +1,6 @@
+{
+  "name": "Siglo Modern Filipino",
+  "description": "A high-converting, single-page progressive website for a premium modern Filipino restaurant.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
